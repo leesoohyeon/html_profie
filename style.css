@@ -1,0 +1,7 @@
+.temp {
+    background: yellow;
+    width: 30%;
+    height: 170px;
+    display: inline-block;
+    margin: 20px;
+}
