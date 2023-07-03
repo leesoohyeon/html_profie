@@ -8,13 +8,13 @@
 .main{
     margin: 30px;
     width: auto;
-    background-color: red;
+
     
 }
 
 .mypicture{
     border-radius: 30px;
-    border:1px inset;
+    border:10px inset;
     display: inline-block;
     margin-left: 20%;
     /* position: absolute; */
@@ -37,7 +37,7 @@
 
 .intro{
     border-radius: 30px;
-    border:2px inset;
+    border:10px inset;
     display: inline-block;
     position: absolute;
     width: 30%;
