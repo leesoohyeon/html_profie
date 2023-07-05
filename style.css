@@ -48,6 +48,13 @@
 .intro p{
     margin-left: 30px;
 }
+.computerimg{
+    margin-top: 10px;
+    margin-right: 30px;;
+    width:500px;
+    height: 300px;
+    float: right;
+}
 .temp {
     background: yellow;
     width: 30%;
